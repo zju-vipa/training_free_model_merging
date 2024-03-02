@@ -1,6 +1,6 @@
 # Training Free Pretrained Model Merging
 
-This repository is the implementation of the paper [Training Free Pretrained Model Merging]().
+This repository is the implementation of the paper [Training Free Pretrained Model Merging (CVPR2024)]().
 
 ## Overview
 
